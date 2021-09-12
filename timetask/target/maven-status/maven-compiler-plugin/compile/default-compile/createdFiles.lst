@@ -1,0 +1,3 @@
+com\timetask\beans\MainTask.class
+com\timetask\create\CreateBeans.class
+com\timetask\beans\XmlInitBean.class

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/clusterPoj.iml" filepath="$PROJECT_DIR$/.idea/clusterPoj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timecontroller/timecontroller.iml" filepath="$PROJECT_DIR$/timecontroller/timecontroller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timetask/timetask.iml" filepath="$PROJECT_DIR$/timetask/timetask.iml" />
+    </modules>
+  </component>
+</project>
