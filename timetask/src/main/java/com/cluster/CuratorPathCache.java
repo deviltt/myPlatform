@@ -13,7 +13,7 @@ import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 public class CuratorPathCache {
-    private static final String ADDRESS = "192.168.2.135:2181";
+    private static final String ADDRESS = "192.168.118.129:2181";
 
     private static final String PATH = "/curator/pathChildrenCache";
 

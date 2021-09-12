@@ -6,14 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="timetask" />
         <module name="timecontroller" />
+        <module name="timetask" />
+        <module name="designpattern" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="clusterPoj" target="1.5" />
-      <module name="timecontroller" target="1.5" />
-      <module name="timetask" target="6" />
+    <bytecodeTargetLevel target="8">
+      <module name="clusterPoj" target="8" />
+      <module name="designpattern" target="8" />
+      <module name="timecontroller" target="8" />
+      <module name="timetask" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

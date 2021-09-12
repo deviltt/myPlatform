@@ -12,7 +12,7 @@ import java.util.concurrent.TimeUnit;
 
 public class CuratorNodeCache {
     // 连接地址
-    private static final String ADDRESS = "192.168.2.135:2181";
+    private static final String ADDRESS = "192.168.118.129:2181";
 
     // 路径
     private static final String PATH = "/curator/nodeCache/test";

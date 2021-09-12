@@ -18,7 +18,7 @@ public class TestApacheCurator {
     private final int CONNECTION_TIMEOUT = 3 * 1000;
 
     //ZooKeeper服务地址
-    private static final String SERVER = "192.168.2.134:2181";
+    private static final String SERVER = "192.168.118.129:2181";
 
     //创建连接实例
     private CuratorFramework client = null;

@@ -12,7 +12,7 @@ import java.nio.charset.Charset;
 import java.util.concurrent.TimeUnit;
 
 public class CuratorTreeCache {
-    private static final String ADDRESS = "192.168.2.135:2181";
+    private static final String ADDRESS = "192.168.118.129:2181";
 
     private static final String PATH = "/curator/comic";
 
